@@ -1,2 +1,2 @@
 # xops-site
-rinusindhuja xpos site
+rinu sindhuja xpos site
